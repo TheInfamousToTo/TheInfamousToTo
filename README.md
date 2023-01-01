@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>💞️  I’m looking to collaborate on Docker Related projects <br>🤝 I’m looking for help with Linux + hardware<br>🌱 I’m currently learning Linux, Docker, JAVA, and Python<br>💬 Ask me about infrastructure + Docker<br>⚡ I’m a Gamer! <br>📫 How to reach me ... Discord @The Infamous ToTo#0246<br>
+<br>💞️  I’m looking to collaborate on Docker Related projects <br>🤝 I’m looking for help with Linux + hardware<br>🌱 I’m currently learning Linux, Docker, JAVA, and Python<br>💬 Ask me about infrastructure + Docker<br>⚡ I’m a Gamer! <br>
 
 
 ## 🌐 Socials:
