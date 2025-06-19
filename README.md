@@ -111,8 +111,6 @@ Hi! I'm TheInfamousToTo, a passionate developer and gamer interested in infrastr
 
 ![🐙 GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=TheInfamousToTo&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
-![📈 GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheInfamousToTo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
 ![💡 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheInfamousToTo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![🕒 GitHub Last Commit](https://img.shields.io/github/last-commit/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
