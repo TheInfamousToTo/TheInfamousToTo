@@ -28,8 +28,6 @@ Hi! I'm TheInfamousToTo, a passionate developer and gamer interested in infrastr
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/180424122596065280)
 [![Join my Discord Server](https://img.shields.io/badge/Server-Join%20Community-%237289DA?logo=discord&logoColor=white)](https://discord.gg/CXqpB7gGsB)
 
-`TheInfamousToTo#1234` 🎮
-
 ---
 
 ## 💻 Tech Stack
