@@ -111,17 +111,13 @@ Hi! I'm TheInfamousToTo, a passionate developer and gamer interested in infrastr
 
 ![🐙 GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=TheInfamousToTo&show_icons=true&theme=dark&hide_border=false&count_private=true)
 ![📈 GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheInfamousToTo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheInfamousToTo&theme=dark&hide_border=false)
 ![💡 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheInfamousToTo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![📊 GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TheInfamousToTo&theme=react-dark&hide_border=true&area=true)
 ![🕒 GitHub Last Commit](https://img.shields.io/github/last-commit/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
 ![📅 GitHub Commits](https://img.shields.io/github/commit-activity/m/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
 ![🐞 GitHub Issues](https://img.shields.io/github/issues/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
 ![🔀 GitHub Pull Requests](https://img.shields.io/github/issues-pr/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
 ![👥 GitHub Followers](https://img.shields.io/github/followers/TheInfamousToTo?style=social)
 ![⭐ GitHub Stars](https://img.shields.io/github/stars/TheInfamousToTo?style=social)
-![🍴 GitHub Forks](https://img.shields.io/github/forks/TheInfamousToTo?style=social)
-
 ---
 
 ## 🏆 GitHub Trophies
