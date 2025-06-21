@@ -27,6 +27,13 @@ Hi! I'm TheInfamousToTo, a passionate developer and gamer interested in infrastr
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheInfamousToTo)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/180424122596065280)
 [![Join my Discord Server](https://img.shields.io/badge/Server-Join%20Community-%237289DA?logo=discord&logoColor=white)](https://discord.gg/CXqpB7gGsB)
+[![Answer Platform](https://img.shields.io/badge/Answer%20Platform-Ask%20%26%20Answer-%23007ACC?logo=google-forms&logoColor=white)](https://answer.satrawi.cc/)
+
+<!--
+  Added: 
+  [![Answer Platform](https://img.shields.io/badge/Answer%20Platform-Ask%20%26%20Answer-%23007ACC?logo=google-forms&logoColor=white)](https://answer.satrawi.cc/)
+  Description: It's a platform where you can ask questions and got them answered by the community.
+-->
 
 ---
 
