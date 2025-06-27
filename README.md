@@ -105,6 +105,7 @@ Hi! I'm TheInfamousToTo, a passionate developer and gamer interested in infrastr
 
 | 🚩 Project | 📝 Description | 🛠️ Tech |
 | ------- | ----------- | ---- |
+| [hub-helper](https://github.com/TheInfamousToTo/hub-helper) | Deployment automation tool for GitHub & Docker Hub with modern web interface | Python, Flask, Docker |
 | [plex-suggester](https://github.com/TheInfamousToTo/plex-suggester) | Suggests what to watch from your Plex library | Python, Docker |
 | [PI-HAT-Screen](https://github.com/TheInfamousToTo/PI-HAT-Screen) | Display info on a Raspberry Pi HAT screen | Python, Raspberry Pi, IoT |
 | [Pi-hole-Backup-Script](https://github.com/TheInfamousToTo/Pi-hole-Backup-Script) | Automated backup for Pi-hole configs | Bash, Docker |
