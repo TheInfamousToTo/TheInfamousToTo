@@ -56,6 +56,7 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/180424122596065280)
 [![Join my Discord Server](https://img.shields.io/badge/Server-Join%20Community-%237289DA?logo=discord&logoColor=white)](https://discord.gg/CXqpB7gGsB)
 [![Answer Platform](https://img.shields.io/badge/Answer%20Platform-Ask%20%26%20Answer-%23007ACC?logo=google-forms&logoColor=white)](https://answer.satrawi.cc/)
+[![Service Status](https://img.shields.io/badge/Service%20Status-Check%20Uptime-%2300C851?logo=statuspage&logoColor=white)](https://up.satrawi.cc/status/public)
 
 <!--
   Added: 
