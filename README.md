@@ -187,9 +187,6 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ![🏅 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheInfamousToTo&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=TheInfamousToTo&icon=0&color=11)](https://visitcount.itsvg.in)
 
 ---
 
