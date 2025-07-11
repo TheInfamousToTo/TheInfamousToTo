@@ -158,7 +158,7 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
-| [**Pi-hole-Backup-Script**](https://github.com/TheInfamousToTo/Pi-hole-Backup-Script) | Automated backup for Pi-hole configs | Bash, Docker | 📦 Containerized, ⚡ Automated |
+| [**HoleSafe**](https://github.com/TheInfamousToTo/HoleSafe) | Comprehensive web-based Pi-hole backup management with advanced UI/UX | React, Node.js, Docker | 🎨 Modern animated UI, 🔐 SSH key management, ⏰ Automated scheduling |
 | [**file-organizer**](https://github.com/TheInfamousToTo/file-organizer) | Automatically organizes files in directories | Python | 🔄 Smart categorization |
 
 ### 🖥️ **Hardware & IoT**
