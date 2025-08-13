@@ -197,8 +197,6 @@ If you like my work, consider buying me a coffee or supporting me on Ko-fi! ☕
 
 ## 🤝 Let's Connect
 
-> 💡 **Quick Tip**: Check out my [Answer Platform](https://answer.satrawi.cc/) for tech Q&A!
-
 **Best ways to reach me:**
 
 - 💬 **Discord**: Join my [community server](https://discord.gg/CXqpB7gGsB) for real-time chat
