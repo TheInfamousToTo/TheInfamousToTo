@@ -51,12 +51,8 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 ## 🌐 Socials
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/totostreamz)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alsatrawitweets)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TheInfamousToTo)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/180424122596065280)
 [![Join my Discord Server](https://img.shields.io/badge/Server-Join%20Community-%237289DA?logo=discord&logoColor=white)](https://discord.gg/CXqpB7gGsB)
-[![Answer Platform](https://img.shields.io/badge/Answer%20Platform-Ask%20%26%20Answer-%23007ACC?logo=google-forms&logoColor=white)](https://answer.satrawi.cc/)
-[![Service Status](https://img.shields.io/badge/Service%20Status-Check%20Uptime-%2300C851?logo=statuspage&logoColor=white)](https://up.satrawi.cc/status/public)
 
 <!--
   Added: 
@@ -206,9 +202,7 @@ If you like my work, consider buying me a coffee or supporting me on Ko-fi! ☕
 **Best ways to reach me:**
 
 - 💬 **Discord**: Join my [community server](https://discord.gg/CXqpB7gGsB) for real-time chat
-- 🎥 **YouTube**: Watch my [latest tutorials](https://youtube.com/@TheInfamousToTo)
 - 🔴 **Twitch**: Catch me [streaming live](https://twitch.tv/totostreamz)
-- 🐦 **Twitter**: Follow for [quick updates](https://twitter.com/alsatrawitweets)
 
 ---
 
