@@ -123,22 +123,22 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
-| [**hub-helper**](https://github.com/TheInfamousToTo/hub-helper) | Deployment automation tool for GitHub & Docker Hub with modern web interface | Python, Flask, Docker | 🔐 OAuth integration, 🎨 Modern UI |
-| [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Suggests what to watch from your Plex library with cast info & trailers | Python, Docker | 🤖 Smart recommendations, ⭐ 20 stars |
-| [**N8N-Approval-Service**](https://github.com/TheInfamousToTo/N8N-Approval-Service) | Human-in-the-loop approval system for n8n workflows | TypeScript | ✅ Production-ready, 🔄 Workflow bridge |
+| [**hub-helper**](https://github.com/TheInfamousToTo/hub-helper) | Deployment automation tool for GitHub & Docker Hub with modern web interface | Python, Flask, Docker | ⭐ 12 stars, 📊 Global analytics, 🔐 OAuth |
+| [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Tinder-style movie matcher for Plex with swipe UI & global room sharing | Python, Flask, Docker | ⭐ 20 stars, 🔥 v2.0 Swipe UI, 🌐 Multiplayer |
+| [**N8N-Approval-Service**](https://github.com/TheInfamousToTo/N8N-Approval-Service) | Human-in-the-loop approval system for n8n workflows with Discord integration | TypeScript, React | 📊 Dashboard UI, 💬 Discord buttons |
 
 ### 🔧 **Infrastructure & Automation**
 
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
-| [**PiHoleVault**](https://github.com/TheInfamousToTo/PiHoleVault) | Comprehensive web-based Pi-hole backup management with advanced UI/UX | React, Node.js, Docker | 🎨 Modern animated UI, ⭐ 44 stars |
-| [**file-organizer**](https://github.com/TheInfamousToTo/file-organizer) | Automatically organizes files in directories | Python | 🔄 Smart categorization |
+| [**PiHoleVault**](https://github.com/TheInfamousToTo/PiHoleVault) | Web-based Pi-hole backup manager with automated scheduling & Discord notifications | React, Node.js, Docker | ⭐ 44 stars, 🌐 Web-only mode, ⏰ Cron scheduling |
+| [**file-organizer**](https://github.com/TheInfamousToTo/file-organizer) | Desktop file organizer with 80+ file types support | Python, Batch | 🪟 Windows-first, 📁 12 categories |
 
 ### 🖥️ **Hardware & IoT**
 
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
-| [**PI-HAT-Screen**](https://github.com/TheInfamousToTo/PI-HAT-Screen) | Display info on a Raspberry Pi HAT screen | Python, Raspberry Pi, IoT | 📊 Real-time monitoring |
+| [**PI-HAT-Screen**](https://github.com/TheInfamousToTo/PI-HAT-Screen) | OLED system info display with 15 animations & burn-in prevention | Python, Raspberry Pi | 🎬 15 animations, 🛡️ OLED protection |
 
 ---
 
@@ -150,5 +150,3 @@ If you like my work, consider buying me a coffee or supporting me on Ko-fi! ☕
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/theinfamoustoto)
 
 ---
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
