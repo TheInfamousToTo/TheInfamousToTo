@@ -19,7 +19,7 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 - 🔬 Building advanced monitoring solutions with Prometheus & Grafana
 - 📱 Developing IoT dashboards for Raspberry Pi HAT displays
 
-🎯 **2025 Goals**
+🎯 **2026 Goals**
 
 - Master Kubernetes cluster management
 - Contribute to major open-source Docker projects  
@@ -28,37 +28,13 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ---
 
-- 🌱 Currently learning **Linux, Docker, Java, and Python**
-- 💬 Ask me about **infrastructure & Docker**
-- ⚡ Fun fact: I’m a gamer!
-
----
-
-## 📚 Table of Contents
-
-- [💫 About Me](#-about-me)
-- [🔥 Current Focus](#-current-focus)
-- [🌐 Socials](#-socials)
-- [💻 Tech Stack](#-tech-stack)
-- [🚀 Featured Projects](#-featured-projects)
-- [📊 GitHub Stats](#-github-stats)
-- [🏆 GitHub Trophies](#-github-trophies)
-- [💰 Support](#-support)
-- [🤝 Let's Connect](#-lets-connect)
-
----
-
-## 🌐 Socials
+## 🌐 Socials & Connect
 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/totostreamz)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/180424122596065280)
 [![Join my Discord Server](https://img.shields.io/badge/Server-Join%20Community-%237289DA?logo=discord&logoColor=white)](https://discord.gg/CXqpB7gGsB)
 
-<!--
-  Added: 
-  [![Answer Platform](https://img.shields.io/badge/Answer%20Platform-Ask%20%26%20Answer-%23007ACC?logo=google-forms&logoColor=white)](https://answer.satrawi.cc/)
-  Description: It's a platform where you can ask questions and got them answered by the community.
--->
+💬 Join my [Discord community](https://discord.gg/CXqpB7gGsB) for real-time chat • 🔴 Catch me [streaming live](https://twitch.tv/totostreamz)
 
 ---
 
@@ -148,13 +124,14 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
 | [**hub-helper**](https://github.com/TheInfamousToTo/hub-helper) | Deployment automation tool for GitHub & Docker Hub with modern web interface | Python, Flask, Docker | 🔐 OAuth integration, 🎨 Modern UI |
-| [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Suggests what to watch from your Plex library | Python, Docker | 🤖 Smart recommendations |
+| [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Suggests what to watch from your Plex library with cast info & trailers | Python, Docker | 🤖 Smart recommendations, ⭐ 20 stars |
+| [**N8N-Approval-Service**](https://github.com/TheInfamousToTo/N8N-Approval-Service) | Human-in-the-loop approval system for n8n workflows | TypeScript | ✅ Production-ready, 🔄 Workflow bridge |
 
 ### 🔧 **Infrastructure & Automation**
 
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
-| [**PiHoleVault**](https://github.com/TheInfamousToTo/PiHoleVault) | Comprehensive web-based Pi-hole backup management with advanced UI/UX | React, Node.js, Docker | 🎨 Modern animated UI, 🔐 SSH key management, ⏰ Automated scheduling |
+| [**PiHoleVault**](https://github.com/TheInfamousToTo/PiHoleVault) | Comprehensive web-based Pi-hole backup management with advanced UI/UX | React, Node.js, Docker | 🎨 Modern animated UI, ⭐ 44 stars |
 | [**file-organizer**](https://github.com/TheInfamousToTo/file-organizer) | Automatically organizes files in directories | Python | 🔄 Smart categorization |
 
 ### 🖥️ **Hardware & IoT**
@@ -165,42 +142,12 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ---
 
-## 📊 GitHub Stats
-
-![🐙 GitHub Profile Stats](https://github-readme-stats.vercel.app/api?username=TheInfamousToTo&show_icons=true&theme=dark&hide_border=false&count_private=true)
-
-![💡 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheInfamousToTo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![🕒 GitHub Last Commit](https://img.shields.io/github/last-commit/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
-![📅 GitHub Commits](https://img.shields.io/github/commit-activity/m/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
-![🐞 GitHub Issues](https://img.shields.io/github/issues/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
-![🔀 GitHub Pull Requests](https://img.shields.io/github/issues-pr/TheInfamousToTo/TheInfamousToTo?style=flat-square&color=blue)
-![👥 GitHub Followers](https://img.shields.io/github/followers/TheInfamousToTo?style=social)
-![⭐ GitHub Stars](https://img.shields.io/github/stars/TheInfamousToTo?style=social)
----
-
-## 🏆 GitHub Trophies
-
-![🏅 GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TheInfamousToTo&theme=discord&no-frame=false&no-bg=false&margin-w=4)
-
-
----
-
 ## 💰 Support
 
 If you like my work, consider buying me a coffee or supporting me on Ko-fi! ☕
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/TheInfamousToTo)
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/theinfamoustoto)
-
----
-
-## 🤝 Let's Connect
-
-**Best ways to reach me:**
-
-- 💬 **Discord**: Join my [community server](https://discord.gg/CXqpB7gGsB) for real-time chat
-- 🔴 **Twitch**: Catch me [streaming live](https://twitch.tv/totostreamz)
 
 ---
 
