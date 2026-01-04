@@ -108,13 +108,6 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 ![MQTT](https://img.shields.io/badge/mqtt-660066?style=plastic&logo=mqtt&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-41BDF5?style=plastic&logo=home-assistant&logoColor=white)
 
-### 🎨 Design Tools
-
-![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
 ---
 
 ## 🚀 Featured Projects
