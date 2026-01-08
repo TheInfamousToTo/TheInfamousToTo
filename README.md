@@ -116,6 +116,7 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
+| [**hoyolab-code-notifier**](https://github.com/TheInfamousToTo/hoyolab-code-notifier) | Auto-monitors HoYoLab redemption codes & sends Discord notifications for Genshin, HSR, ZZZ | Python, Flask, Docker | 🎮 Multi-game, 🔔 Multi-webhook, ⏰ Expiration tracking |
 | [**hub-helper**](https://github.com/TheInfamousToTo/hub-helper) | Deployment automation tool for GitHub & Docker Hub with modern web interface | Python, Flask, Docker | ⭐ 12 stars, 📊 Global analytics, 🔐 OAuth |
 | [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Tinder-style movie matcher for Plex with swipe UI & global room sharing | Python, Flask, Docker | ⭐ 20 stars, 🔥 v2.0 Swipe UI, 🌐 Multiplayer |
 | [**N8N-Approval-Service**](https://github.com/TheInfamousToTo/N8N-Approval-Service) | Human-in-the-loop approval system for n8n workflows with Discord integration | TypeScript, React | 📊 Dashboard UI, 💬 Discord buttons |
