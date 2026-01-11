@@ -1,5 +1,7 @@
 # 💫 About Me
 
+![Profile Views](https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=flat&label=Profile+views)
+
 Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full-Stack Developer** specializing in containerization, automation, and system architecture. I build scalable solutions and love sharing knowledge through my community platform.
 
 - 🚀 **Expertise**: Docker, Kubernetes, Python, Infrastructure as Code
