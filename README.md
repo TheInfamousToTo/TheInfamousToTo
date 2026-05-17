@@ -1,6 +1,9 @@
-# 💫 About Me
-
-![Profile Views](https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=flat&label=Profile+views)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Infrastructure+Engineer...;Full-Stack+Developer...;Cloud+Native+Enthusiast..." alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=for-the-badge&label=Profile+views" alt="Profile Views" />
+</div>
+<br/>
 
 Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full-Stack Developer** specializing in containerization, automation, and system architecture. I build scalable solutions and love sharing knowledge through my community platform.
 
@@ -112,7 +115,20 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ---
 
-## 🚀 Featured Projects
+## � GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheInfamousToTo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheInfamousToTo&layout=compact&theme=radical" />
+</div>
+<br />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheInfamousToTo&theme=radical" />
+</div>
+
+---
+
+## �🚀 Featured Projects
 
 ### 🔥 **Top Projects**
 
