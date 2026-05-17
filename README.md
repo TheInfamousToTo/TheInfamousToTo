@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Infrastructure+Engineer...;Full-Stack+Developer...;Cloud+Native+Enthusiast..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Senior+Infrastructure+Analyst...;Kubernetes+%26+Cloud+Native...;Homelab+Enthusiast...;Automation+%26+DevOps...;Full-Stack+Developer..." alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=for-the-badge&label=Profile+views" alt="Profile Views" />
 </div>
