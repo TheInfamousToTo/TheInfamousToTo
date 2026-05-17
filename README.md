@@ -74,28 +74,34 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 ![InfluxDB](https://img.shields.io/badge/influxdb-%2300ADEF.svg?style=plastic&logo=influxdb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=plastic&logo=redis&logoColor=white)
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud Native
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker--compose-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
-![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=plastic&logo=rancher&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%23041CE5.svg?style=plastic&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=plastic&logo=argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-%2324A1C1.svg?style=plastic&logo=traefik&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white)
 
-### 🖥️ Virtualization
+### 🖥️ OS, Virtualization & Homelab
 
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?style=plastic&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=plastic&logo=debian&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-EE7200?style=plastic&logo=proxmox&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=plastic&logo=vmware&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?style=plastic&logo=windows&logoColor=white)
 ![XCP-ng](https://img.shields.io/badge/XCP--ng-0066CC?style=plastic&logo=xcp-ng&logoColor=white)
 ![Nutanix](https://img.shields.io/badge/Nutanix-024DA1?style=plastic&logo=nutanix&logoColor=white)
+![TrueNAS](https://img.shields.io/badge/TrueNAS-%2301A3DD.svg?style=plastic&logo=truenas&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-%2313BEEC.svg?style=plastic&logo=portainer&logoColor=white)
 
 ### 📈 Observability
 
@@ -104,14 +110,17 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 ![Loki](https://img.shields.io/badge/loki-0A0A0A?style=plastic&logo=loki&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/zabbix-DC382D?style=plastic&logo=zabbix&logoColor=white)
 
-### 🌐 Networking & IoT
+### 🌐 Networking, Security & IoT
 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-%2388171A.svg?style=plastic&logo=wireguard&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-%231e1e1e.svg?style=plastic&logo=tailscale&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-1BA0D7?style=plastic&logo=cisco&logoColor=white)
 ![Mikrotik](https://img.shields.io/badge/mikrotik-FF6600?style=plastic&logo=mikrotik&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
+![Home Assistant](https://img.shields.io/badge/home%20assistant-41BDF5?style=plastic&logo=home-assistant&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/zigbee-EB0443?style=plastic&logo=zigbee&logoColor=white)
 ![MQTT](https://img.shields.io/badge/mqtt-660066?style=plastic&logo=mqtt&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/home%20assistant-41BDF5?style=plastic&logo=home-assistant&logoColor=white)
 
 ---
 
