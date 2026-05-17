@@ -114,27 +114,35 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ## 🚀 Featured Projects
 
-### 🔥 **Recent Projects**
+### 🔥 **Top Projects**
 
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
-| [**hoyolab-code-notifier**](https://github.com/TheInfamousToTo/hoyolab-code-notifier) | Auto-monitors HoYoLab redemption codes & sends Discord notifications for Genshin, HSR, ZZZ | Python, Flask, Docker | 🎮 Multi-game, 🔔 Multi-webhook, ⏰ Expiration tracking |
-| [**hub-helper**](https://github.com/TheInfamousToTo/hub-helper) | Deployment automation tool for GitHub & Docker Hub with modern web interface | Python, Flask, Docker | ⭐ 12 stars, 📊 Global analytics, 🔐 OAuth |
-| [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Tinder-style movie matcher for Plex with swipe UI & global room sharing | Python, Flask, Docker | ⭐ 20 stars, 🔥 v2.0 Swipe UI, 🌐 Multiplayer |
+| [**PiHoleVault**](https://github.com/TheInfamousToTo/PiHoleVault) | Web-based Pi-hole backup manager with automated scheduling & Discord notifications | Node.js, React, Docker | ⭐ 45 stars, 🌐 Web UI, ⏰ Cron scheduling |
+| [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Tinder-style movie matcher for Plex with swipe UI & global room sharing | Python, Flask, Docker | ⭐ 21 stars, 🔥 v2.0 Swipe UI, 🌐 Multiplayer |
+| [**hub-helper**](https://github.com/TheInfamousToTo/hub-helper) | Deployment automation tool for GitHub & Docker Hub with modern web interface | Python, Flask, Docker | ⭐ 11 stars, 📊 Global analytics, 🔐 OAuth |
+
+### 🔧 **Automation & Utility**
+
+| 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
+| ------- | ----------- | ---- | ---- |
 | [**N8N-Approval-Service**](https://github.com/TheInfamousToTo/N8N-Approval-Service) | Human-in-the-loop approval system for n8n workflows with Discord integration | TypeScript, React | 📊 Dashboard UI, 💬 Discord buttons |
-
-### 🔧 **Infrastructure & Automation**
-
-| 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
-| ------- | ----------- | ---- | ---- |
-| [**PiHoleVault**](https://github.com/TheInfamousToTo/PiHoleVault) | Web-based Pi-hole backup manager with automated scheduling & Discord notifications | React, Node.js, Docker | ⭐ 44 stars, 🌐 Web-only mode, ⏰ Cron scheduling |
-| [**file-organizer**](https://github.com/TheInfamousToTo/file-organizer) | Desktop file organizer with 80+ file types support | Python, Batch | 🪟 Windows-first, 📁 12 categories |
+| [**hoyolab-code-notifier**](https://github.com/TheInfamousToTo/hoyolab-code-notifier) | Auto-monitors HoYoLab redemption codes & sends Discord notifications | Python, Docker | 🎮 Multi-game, 🔔 Multi-webhook |
+| [**file-organizer**](https://github.com/TheInfamousToTo/file-organizer) | Desktop file organizer with multiple categories | Python | 🪟 Windows-first, 📁 Automated Sorting |
 
 ### 🖥️ **Hardware & IoT**
 
 | 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
 | ------- | ----------- | ---- | ---- |
 | [**PI-HAT-Screen**](https://github.com/TheInfamousToTo/PI-HAT-Screen) | OLED system info display with 15 animations & burn-in prevention | Python, Raspberry Pi | 🎬 15 animations, 🛡️ OLED protection |
+
+### 📚 **Academic & Learning**
+
+| 🚩 Project | 📝 Description | 🛠️ Tech |
+| ------- | ----------- | ---- |
+| [**M251**](https://github.com/TheInfamousToTo/M251) | M251 course coding projects & mock exams | Java |
+| [**M109**](https://github.com/TheInfamousToTo/M109) | M109 class materials and exercises | C# |
+| [**TM112**](https://github.com/TheInfamousToTo/TM112) | TM112 class materials and exercises | Python |
 
 ---
 
