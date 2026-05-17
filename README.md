@@ -124,7 +124,7 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ---
 
-## � GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheInfamousToTo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
@@ -137,7 +137,7 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ---
 
-## �🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🔥 **Top Projects**
 
