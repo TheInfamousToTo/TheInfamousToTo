@@ -162,6 +162,19 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ---
 
+## 🤝 Open Source Contributions
+
+I actively track and improve open-source repositories in the infrastructure and home lab space. Here are some key projects I've contributed to:
+
+| 🚩 Repository | 📝 My Contribution |
+| ------- | ----------- |
+| [**Dictionarry-Hub/profilarr**](https://github.com/Dictionarry-Hub/profilarr) | Fixed CI/CD GitHub Actions image pushing for `ghcr.io` deployments |
+| [**Zggis/plex-tvtime**](https://github.com/Zggis/plex-tvtime) | Implemented Discord notifications for application startup and user login events |
+| [**torikushiii/hoyolab-auto**](https://github.com/torikushiii/hoyolab-auto) | Added comprehensive file logging functionality and improved Docker containerization configuration |
+| [**roslovets/SP110E-HASS**](https://github.com/roslovets/SP110E-HASS) | Integrated and populated support/funding configurations |
+
+---
+
 ## 💰 Support
 
 If you like my work, consider buying me a coffee or supporting me on Ko-fi! ☕
