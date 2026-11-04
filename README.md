@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Systems+%26+Infrastructure...;Self-Hosted+Tools...;Security+%26+Observability...;Automation+%26+DevOps...;Open-Source+Contributor..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Systems+%26+Infrastructure...;Kubernetes+%26+GitOps...;Self-Hosted+Tools...;Security+%26+Observability...;Automation+%26+DevOps...;Open-Source+Contributor..." alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=for-the-badge&label=Profile+views" alt="Profile Views" />
 </div>
@@ -8,7 +8,7 @@
 Hi! I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys turning everyday IT problems into useful, self-hosted tools. I work with Linux systems, virtualization, containers, automation, monitoring, and security—and share the projects I build along the way.
 
 - 🛠️ **I build:** Self-hosted applications, infrastructure utilities, and automation tools
-- 🧰 **Core tools:** Docker, Proxmox, TrueNAS, Python, Go, TypeScript, React, and PostgreSQL
+- 🧰 **Core tools:** Kubernetes (Talos), Docker, Proxmox, TrueNAS, Python, Go, TypeScript, React, and PostgreSQL
 - 🤝 **Open source:** Maintaining my projects and contributing fixes to upstream repositories
 - 💬 **Ask me about:** Homelabs, deployment workflows, observability, and practical IT automation
 - 🎮 **Beyond IT:** Gaming, streaming, Raspberry Pi projects, and community tools
@@ -17,6 +17,7 @@ Hi! I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys
 
 ## 🔥 Current Focus
 
+- **Homelab:** A 9-node Talos Kubernetes cluster on Proxmox and TrueNAS, run with GitOps: CloudNativePG databases, Authentik SSO, automated image updates, and Prometheus/Loki observability.
 - **PiHoleVault:** Multi-instance Pi-hole backup and restore, encrypted off-site backups, backup verification, and testing.
 - **Gold Tracker:** Self-hosted gold/silver portfolio tracking plus stocks and ETFs with broker-aware trading fees.
 - **Wazuh Vulnerability Explorer:** Turning large volumes of vulnerability findings into actionable, fleet-level views.
