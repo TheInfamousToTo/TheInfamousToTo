@@ -1,35 +1,27 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Senior+Infrastructure+Analyst...;Kubernetes+%26+Cloud+Native...;Homelab+Enthusiast...;Automation+%26+DevOps...;Full-Stack+Developer..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Systems+%26+Infrastructure...;Kubernetes+%26+GitOps...;Self-Hosted+Tools...;Security+%26+Observability...;Automation+%26+DevOps...;Open-Source+Contributor..." alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=for-the-badge&label=Profile+views" alt="Profile Views" />
 </div>
 <br/>
 
-Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full-Stack Developer** specializing in containerization, automation, and system architecture. I build scalable solutions and love sharing knowledge through my community platform.
+Hi! I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys turning everyday IT problems into useful, self-hosted tools. I work with Linux systems, virtualization, containers, automation, monitoring, and security—and share the projects I build along the way.
 
-- 🚀 **Expertise**: Docker, Kubernetes, Python, Infrastructure as Code
-- 💞️ **Collaborating on**: Docker-related projects, DevOps automation, and open-source tools
-- 🤝 **Available for**: Linux + hardware consulting, system architecture design
-- 🌱 **Currently exploring**: Advanced Kubernetes, Rust, and Cloud-Native technologies
-- 💬 **Ask me about**: Infrastructure automation, container orchestration, and system optimization
-- ⚡ **Fun fact**: I'm a gamer who streams tech content and runs a community Q&A platform!
+- 🛠️ **I build:** Self-hosted applications, infrastructure utilities, and automation tools
+- 🧰 **Core tools:** Kubernetes (Talos), Docker, Proxmox, TrueNAS, Python, Go, TypeScript, React, and PostgreSQL
+- 🤝 **Open source:** Maintaining my projects and contributing fixes to upstream repositories
+- 💬 **Ask me about:** Homelabs, deployment workflows, observability, and practical IT automation
+- 🎮 **Beyond IT:** Gaming, streaming, Raspberry Pi projects, and community tools
 
 ---
 
 ## 🔥 Current Focus
 
-🚧 **Active Projects**
-
-- 🔨 Expanding `hub-helper` with CI/CD pipeline integrations
-- 🔬 Building advanced monitoring solutions with Prometheus & Grafana
-- 📱 Developing IoT dashboards for Raspberry Pi HAT displays
-
-🎯 **2026 Goals**
-
-- Master Kubernetes cluster management
-- Contribute to major open-source Docker projects  
-- Launch advanced infrastructure automation course
-- Grow community platform to 1000+ active users
+- **Homelab:** A 9-node Talos Kubernetes cluster on Proxmox and TrueNAS, run with GitOps: CloudNativePG databases, Authentik SSO, automated image updates, and Prometheus/Loki observability.
+- **PiHoleVault:** Multi-instance Pi-hole backup and restore, encrypted off-site backups, backup verification, and testing.
+- **Gold Tracker:** Self-hosted gold/silver portfolio tracking plus stocks and ETFs with broker-aware trading fees.
+- **Wazuh Vulnerability Explorer:** Turning large volumes of vulnerability findings into actionable, fleet-level views.
+- **DevOps & security:** Docker deployments, CI/CD, observability, and upstream dependency/security fixes.
 
 ---
 
@@ -49,6 +41,7 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=plastic&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white)
@@ -62,6 +55,7 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi)
+![React](https://img.shields.io/badge/React-149ECA?style=plastic&logo=react&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 
 ### 🗄️ Databases
@@ -139,35 +133,42 @@ Hi! I'm **TheInfamousToTo**, a passionate **Infrastructure Engineer** and **Full
 
 ## 🚀 Featured Projects
 
-### 🔥 **Top Projects**
+### ⭐ Established Projects
 
-| 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
-| ------- | ----------- | ---- | ---- |
-| [**PiHoleVault**](https://github.com/TheInfamousToTo/PiHoleVault) | Web-based Pi-hole backup manager with automated scheduling & Discord notifications | Node.js, React, Docker | ⭐ 45 stars, 🌐 Web UI, ⏰ Cron scheduling |
-| [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Tinder-style movie matcher for Plex with swipe UI & global room sharing | Python, Flask, Docker | ⭐ 21 stars, 🔥 v2.0 Swipe UI, 🌐 Multiplayer |
-| [**hub-helper**](https://github.com/TheInfamousToTo/hub-helper) | Deployment automation tool for GitHub & Docker Hub with modern web interface | Python, Flask, Docker | ⭐ 11 stars, 📊 Global analytics, 🔐 OAuth |
+| Project | What it does | Stack | Highlights |
+| --- | --- | --- | --- |
+| [**PiHoleVault**](https://github.com/TheInfamousToTo/PiHoleVault) | Self-hosted Pi-hole v6 backup and restore manager | JavaScript, React, Docker | ![Stars](https://img.shields.io/github/stars/TheInfamousToTo/PiHoleVault?style=flat-square) · Multi-instance support · Selective restore · Encrypted off-site backups · v2.1.1 |
+| [**plex-suggester**](https://github.com/TheInfamousToTo/plex-suggester) | Find something to watch in Plex, solo or with friends | Python, Flask, Docker | ![Stars](https://img.shields.io/github/stars/TheInfamousToTo/plex-suggester?style=flat-square) · Swipe-to-match · Shared rooms · Watchlist integration |
+| [**hub-helper**](https://github.com/TheInfamousToTo/hub-helper) | Manage GitHub and Docker Hub project deployments from a web UI | Python, Flask, Docker | ![Stars](https://img.shields.io/github/stars/TheInfamousToTo/hub-helper?style=flat-square) · OAuth · Version tagging · Global deployment analytics |
 
-### 🔧 **Automation & Utility**
+### 🆕 Newer Projects
 
-| 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
-| ------- | ----------- | ---- | ---- |
-| [**N8N-Approval-Service**](https://github.com/TheInfamousToTo/N8N-Approval-Service) | Human-in-the-loop approval system for n8n workflows with Discord integration | TypeScript, React | 📊 Dashboard UI, 💬 Discord buttons |
-| [**hoyolab-code-notifier**](https://github.com/TheInfamousToTo/hoyolab-code-notifier) | Auto-monitors HoYoLab redemption codes & sends Discord notifications | Python, Docker | 🎮 Multi-game, 🔔 Multi-webhook |
-| [**file-organizer**](https://github.com/TheInfamousToTo/file-organizer) | Desktop file organizer with multiple categories | Python | 🪟 Windows-first, 📁 Automated Sorting |
+| Project | What it does | Stack | Highlights |
+| --- | --- | --- | --- |
+| [**gold-tracker**](https://github.com/TheInfamousToTo/gold-tracker) | Self-hosted portfolio tracker for precious metals, stocks, and ETFs | Go, React, PostgreSQL, Docker | Spot-price history · P/L tracking · Broker fee schedules · BHD/FX accounting |
+| [**Wazuh-Vulnerability-Explorer**](https://github.com/TheInfamousToTo/Wazuh-Vulnerability-Explorer) | Security dashboard for prioritizing Wazuh vulnerability findings across a fleet | Python, Wazuh, OpenSearch | CVE grouping · Fleet reach · Historical trends · Authenticated access |
 
-### 🖥️ **Hardware & IoT**
+### 🔧 Automation & Utilities
 
-| 🚩 Project | 📝 Description | 🛠️ Tech | ⭐ Highlights |
-| ------- | ----------- | ---- | ---- |
-| [**PI-HAT-Screen**](https://github.com/TheInfamousToTo/PI-HAT-Screen) | OLED system info display with 15 animations & burn-in prevention | Python, Raspberry Pi | 🎬 15 animations, 🛡️ OLED protection |
+| Project | What it does | Stack | Highlights |
+| --- | --- | --- | --- |
+| [**N8N-Approval-Service**](https://github.com/TheInfamousToTo/N8N-Approval-Service) | Human-in-the-loop approval before n8n workflows publish content | TypeScript, React, PostgreSQL | Discord approval buttons · Post dashboard · Callback API |
+| [**hoyolab-code-notifier**](https://github.com/TheInfamousToTo/hoyolab-code-notifier) | Monitor HoYoLab redemption codes and notify Discord | Python, Docker | Genshin Impact · Honkai: Star Rail · Zenless Zone Zero · Multi-webhook rules |
+| [**file-organizer**](https://github.com/TheInfamousToTo/file-organizer) | Organize desktop files into categories | Python, Windows Batch | Dry-run previews · Automated sorting · File statistics |
 
-### 📚 **Academic & Learning**
+### 🖥️ Hardware & IoT
 
-| 🚩 Project | 📝 Description | 🛠️ Tech |
-| ------- | ----------- | ---- |
-| [**M251**](https://github.com/TheInfamousToTo/M251) | M251 course coding projects & mock exams | Java |
-| [**M109**](https://github.com/TheInfamousToTo/M109) | M109 class materials and exercises | C# |
-| [**TM112**](https://github.com/TheInfamousToTo/TM112) | TM112 class materials and exercises | Python |
+| Project | What it does | Stack | Highlights |
+| --- | --- | --- | --- |
+| [**PI-HAT-Screen**](https://github.com/TheInfamousToTo/PI-HAT-Screen) | OLED system information display for Raspberry Pi | Python, Raspberry Pi | System metrics · Animated display · Burn-in prevention |
+
+### 📚 Academic & Learning
+
+| Project | Description | Language |
+| --- | --- | --- |
+| [**M251**](https://github.com/TheInfamousToTo/M251) | Course coding projects and mock exams | Java |
+| [**M109**](https://github.com/TheInfamousToTo/M109) | Class materials and exercises | C# |
+| [**TM112**](https://github.com/TheInfamousToTo/TM112) | Class materials and exercises | Python |
 
 ---
 
@@ -181,6 +182,8 @@ I actively track and improve open-source repositories in the infrastructure and 
 | [**Zggis/plex-tvtime**](https://github.com/Zggis/plex-tvtime) | Implemented Discord notifications for application startup and user login events |
 | [**torikushiii/hoyolab-auto**](https://github.com/torikushiii/hoyolab-auto) | Added comprehensive file logging functionality and improved Docker containerization configuration |
 | [**roslovets/SP110E-HASS**](https://github.com/roslovets/SP110E-HASS) | Integrated and populated support/funding configurations |
+| [**invoicerr-app/invoicerr**](https://github.com/invoicerr-app/invoicerr) | Merged security dependency fixes for authentication and documentation ([#841](https://github.com/invoicerr-app/invoicerr/pull/841), [#921](https://github.com/invoicerr-app/invoicerr/pull/921)) |
+| [**harry0703/MoneyPrinterTurbo**](https://github.com/harry0703/MoneyPrinterTurbo) | Merged remediation of fixable Trivy high/critical findings in the CPU image ([#1729](https://github.com/harry0703/MoneyPrinterTurbo/pull/1729)) |
 
 ---
 
