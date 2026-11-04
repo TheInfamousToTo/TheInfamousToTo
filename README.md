@@ -1,6 +1,7 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="TheInfamousToTo, Senior Infrastructure Analyst" />
   <br/><br/>
+  <a href="https://shop.satrawi.com"><img src="https://img.shields.io/badge/Shop-shop.satrawi.com-ff69b4?style=for-the-badge&logo=shopify&logoColor=white" alt="Shop" /></a>
   <a href="https://twitch.tv/totostreamz"><img src="https://img.shields.io/badge/Twitch-totostreamz-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <a href="https://discord.gg/CXqpB7gGsB"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
   <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=for-the-badge&label=Profile+views" alt="Profile views" />
@@ -16,6 +17,17 @@ Hi, I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys
 - 🤝 **Open source:** maintaining my projects and sending fixes upstream
 - 💬 **Ask me about:** homelabs, deployment workflows, observability and practical IT automation
 - 🎮 **Beyond IT:** gaming, streaming, Raspberry Pi projects and community tools
+
+---
+
+## 🛒 Shop
+
+Tech work built by one person and run on my own servers, available at **[shop.satrawi.com](https://shop.satrawi.com)**:
+
+- 🎥 **Stream overlays (T13o)**, with a free demo
+- 🤖 **Discord bots**, automation and integrations
+- 🏋️ **Gym App** and 🍽️ **Meal App**, plus other hosted apps
+- 🖥️ **Managed IT & infrastructure** and custom software development
 
 ---
 
