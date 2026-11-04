@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="TheInfamousToTo, Senior Infrastructure Analyst" />
+  <img src="assets/header.svg" width="100%" alt="T13o, Senior Infrastructure Analyst" />
   <br/><br/>
   <a href="https://shop.satrawi.com"><img src="https://img.shields.io/badge/Shop-shop.satrawi.com-ff69b4?style=for-the-badge&logo=shopify&logoColor=white" alt="Shop" /></a>
   <a href="https://twitch.tv/totostreamz"><img src="https://img.shields.io/badge/Twitch-totostreamz-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
@@ -9,7 +9,7 @@
 
 <br/>
 
-Hi, I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys turning everyday IT problems into useful, self-hosted tools. After hours I run a homelab that has grown into a small datacenter, and most of what I build starts as "I wish this existed for my lab" and ends up as an open-source Docker image.
+Hi, I'm **T13o** (short for TheInfamousToTo), an infrastructure engineer and developer who enjoys turning everyday IT problems into useful, self-hosted tools. After hours I run a homelab that has grown into a small datacenter, and most of what I build starts as "I wish this existed for my lab" and ends up as an open-source Docker image.
 
 - 🛠️ **I build:** self-hosted applications, infrastructure utilities and automation tools
 - ☸️ **Core tools:** Kubernetes (Talos), Docker, Proxmox, TrueNAS, Python, Go, TypeScript, React and PostgreSQL
