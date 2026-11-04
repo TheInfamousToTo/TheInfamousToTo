@@ -1,41 +1,56 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Systems+%26+Infrastructure...;Kubernetes+%26+GitOps...;Self-Hosted+Tools...;Security+%26+Observability...;Automation+%26+DevOps...;Open-Source+Contributor..." alt="Typing SVG" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=for-the-badge&label=Profile+views" alt="Profile Views" />
+  <img src="assets/header.svg" width="100%" alt="TheInfamousToTo, Senior Infrastructure Analyst" />
+  <br/><br/>
+  <a href="https://twitch.tv/totostreamz"><img src="https://img.shields.io/badge/Twitch-totostreamz-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
+  <a href="https://discord.gg/CXqpB7gGsB"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ff69b4&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </div>
+
 <br/>
 
-Hi! I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys turning everyday IT problems into useful, self-hosted tools. I work with Linux systems, virtualization, containers, automation, monitoring, and security—and share the projects I build along the way.
+Hi, I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys turning everyday IT problems into useful, self-hosted tools. After hours I run a homelab that has grown into a small datacenter, and most of what I build starts as "I wish this existed for my lab" and ends up as an open-source Docker image.
 
-- 🛠️ **I build:** Self-hosted applications, infrastructure utilities, and automation tools
-- 🧰 **Core tools:** Kubernetes (Talos), Docker, Proxmox, TrueNAS, Python, Go, TypeScript, React, and PostgreSQL
-- 🤝 **Open source:** Maintaining my projects and contributing fixes to upstream repositories
-- 💬 **Ask me about:** Homelabs, deployment workflows, observability, and practical IT automation
-- 🎮 **Beyond IT:** Gaming, streaming, Raspberry Pi projects, and community tools
+- 🛠️ **I build:** self-hosted applications, infrastructure utilities and automation tools
+- ☸️ **Core tools:** Kubernetes (Talos), Docker, Proxmox, TrueNAS, Python, Go, TypeScript, React and PostgreSQL
+- 🤖 **Local AI:** self-hosted LLMs and image generation on my own GPU node
+- 🤝 **Open source:** maintaining my projects and sending fixes upstream
+- 💬 **Ask me about:** homelabs, deployment workflows, observability and practical IT automation
+- 🎮 **Beyond IT:** gaming, streaming, Raspberry Pi projects and community tools
+
+---
+
+## 🏠 The Lab
+
+| Layer | What runs there |
+| --- | --- |
+| **Compute** | Proxmox VE cluster with LXC containers and VMs |
+| **Storage** | TrueNAS SCALE backing Kubernetes persistent volumes |
+| **Orchestration** | Talos Linux Kubernetes run with GitOps, Rancher, plus Docker hosts via Portainer |
+| **Data & identity** | CloudNativePG databases, Authentik SSO |
+| **Edge** | Traefik reverse proxy, Cloudflare, WireGuard / Tailscale |
+| **Observability** | Prometheus, Loki and Grafana |
+| **AI** | GPU node with Ollama, Open WebUI and ComfyUI |
+| **Automation** | n8n workflows, Discord bots, Home Assistant with Zigbee and ESP32 sensors |
+| **Security** | Wazuh SIEM, Pi-hole, automated image updates |
 
 ---
 
 ## 🔥 Current Focus
 
-- **Homelab:** A 9-node Talos Kubernetes cluster on Proxmox and TrueNAS, run with GitOps: CloudNativePG databases, Authentik SSO, automated image updates, and Prometheus/Loki observability.
-- **PiHoleVault:** Multi-instance Pi-hole backup and restore, encrypted off-site backups, backup verification, and testing.
-- **Gold Tracker:** Self-hosted gold/silver portfolio tracking plus stocks and ETFs with broker-aware trading fees.
-- **Wazuh Vulnerability Explorer:** Turning large volumes of vulnerability findings into actionable, fleet-level views.
-- **DevOps & security:** Docker deployments, CI/CD, observability, and upstream dependency/security fixes.
-
----
-
-## 🌐 Socials & Connect
-
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/totostreamz)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/180424122596065280)
-[![Join my Discord Server](https://img.shields.io/badge/Server-Join%20Community-%237289DA?logo=discord&logoColor=white)](https://discord.gg/CXqpB7gGsB)
-
-💬 Join my [Discord community](https://discord.gg/CXqpB7gGsB) for real-time chat • 🔴 Catch me [streaming live](https://twitch.tv/totostreamz)
+- **Homelab:** everything on the Talos cluster defined as code, one manifest and runbook per app.
+- **PiHoleVault:** multi-instance Pi-hole backup and restore, encrypted off-site backups, backup verification and testing.
+- **Gold Tracker:** self-hosted gold/silver portfolio tracking plus stocks and ETFs with broker-aware trading fees.
+- **Wazuh Vulnerability Explorer:** turning large volumes of vulnerability findings into actionable, fleet-level views.
+- **Stream kit:** an OBS overlay package with themes, a PNGtuber avatar, alerts and in-OBS control panels.
+- **DevOps & security:** Docker deployments, CI/CD, observability and upstream dependency/security fixes.
 
 ---
 
 ## 💻 Tech Stack
+
+<details open>
+<summary><b>Show / hide</b></summary>
+
 
 ### 🖥️ Languages
 
@@ -73,6 +88,8 @@ Hi! I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker--compose-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+![Talos Linux](https://img.shields.io/badge/Talos%20Linux-FF7300?style=plastic&logo=talos&logoColor=white)
+![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=plastic&logo=rancher&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%23041CE5.svg?style=plastic&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=plastic&logo=argo&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
@@ -115,6 +132,20 @@ Hi! I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-41BDF5?style=plastic&logo=home-assistant&logoColor=white)
 ![Zigbee](https://img.shields.io/badge/zigbee-EB0443?style=plastic&logo=zigbee&logoColor=white)
 ![MQTT](https://img.shields.io/badge/mqtt-660066?style=plastic&logo=mqtt&logoColor=white)
+![Authentik](https://img.shields.io/badge/Authentik-FD4B2D?style=plastic&logo=authentik&logoColor=white)
+![ESPHome](https://img.shields.io/badge/ESPHome-000000?style=plastic&logo=esphome&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-3595F9?style=plastic&logo=wazuh&logoColor=white)
+
+### 🤖 AI & Automation
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=plastic&logo=ollama&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-1a1a2e?style=plastic&logo=python&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=plastic&logo=n8n&logoColor=white)
+![Discord Bots](https://img.shields.io/badge/Discord%20Bots-5865F2?style=plastic&logo=discord&logoColor=white)
+![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?style=plastic&logo=obsstudio&logoColor=white)
+
+</details>
+
 
 ---
 
@@ -145,7 +176,7 @@ Hi! I'm **TheInfamousToTo**, an infrastructure engineer and developer who enjoys
 
 | Project | What it does | Stack | Highlights |
 | --- | --- | --- | --- |
-| [**gold-tracker**](https://github.com/TheInfamousToTo/gold-tracker) | Self-hosted portfolio tracker for precious metals, stocks, and ETFs | Go, React, PostgreSQL, Docker | Spot-price history · P/L tracking · Broker fee schedules · BHD/FX accounting |
+| [**gold-tracker**](https://github.com/TheInfamousToTo/gold-tracker) | Self-hosted portfolio tracker for precious metals, stocks, and ETFs | Go, React, PostgreSQL, Docker | Spot-price history · P/L tracking · Broker fee schedules · FX accounting |
 | [**Wazuh-Vulnerability-Explorer**](https://github.com/TheInfamousToTo/Wazuh-Vulnerability-Explorer) | Security dashboard for prioritizing Wazuh vulnerability findings across a fleet | Python, Wazuh, OpenSearch | CVE grouping · Fleet reach · Historical trends · Authenticated access |
 
 ### 🔧 Automation & Utilities
