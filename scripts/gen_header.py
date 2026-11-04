@@ -34,7 +34,7 @@ for li, line in enumerate(LINES):
         a = start + k * FRAME
         b = start + (k + 1) * FRAME if k < FRAMES else start + SLOT
         s = line if k == FRAMES else frame_text(line, k)
-        fill = "#f5f5f7" if k == FRAMES else "#ff69b4"
+        fill = "#f5f5f7" if k == FRAMES else "#2dd4bf"
         if b >= CYCLE - 1e-9:
             anim = f'values="0;1" keyTimes="0;{kt(a)}"'
         else:
@@ -47,21 +47,21 @@ for li, line in enumerate(LINES):
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="T13o - Senior Infrastructure Analyst, homelab and Kubernetes builder">
 <defs>
   <linearGradient id="foil" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-    <stop offset="0" stop-color="#ff69b4"/><stop offset=".35" stop-color="#c084fc"/>
-    <stop offset=".65" stop-color="#67e8f9"/><stop offset="1" stop-color="#ff69b4"/>
+    <stop offset="0" stop-color="#34d399"/><stop offset=".35" stop-color="#22d3ee"/>
+    <stop offset=".65" stop-color="#818cf8"/><stop offset="1" stop-color="#34d399"/>
     <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;0 0;-1 0" dur="8s" repeatCount="indefinite"/>
   </linearGradient>
   <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
     <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
   </pattern>
   <radialGradient id="glow" cx=".18" cy=".1" r=".9">
-    <stop offset="0" stop-color="#ff69b4" stop-opacity=".22"/><stop offset="1" stop-color="#ff69b4" stop-opacity="0"/>
+    <stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
   </radialGradient>
 </defs>
-<rect width="{W}" height="{H}" rx="18" fill="#0d0b12"/>
+<rect width="{W}" height="{H}" rx="18" fill="#071114"/>
 <rect width="{W}" height="{H}" rx="18" fill="url(#grid)"/>
 <rect width="{W}" height="{H}" rx="18" fill="url(#glow)"/>
-<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="17.5" fill="none" stroke="#ff69b4" stroke-opacity=".25"/>
+<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="17.5" fill="none" stroke="#2dd4bf" stroke-opacity=".25"/>
 
 <g font-family="{MONO}" font-size="14" fill="#8b8597">
   <circle cx="34" cy="34" r="5" fill="#ff5f57"/><circle cx="52" cy="34" r="5" fill="#febc2e"/><circle cx="70" cy="34" r="5" fill="#28c840"/>
@@ -71,14 +71,14 @@ svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewB
 </g>
 
 <text x="70" y="156" font-family="{SANS}" font-size="112" font-weight="800" letter-spacing="-1.5"
-      fill="url(#foil)" fill-opacity="0" stroke="#ff69b4" stroke-width="1.8" stroke-dasharray="1400" stroke-dashoffset="1400">T13o
+      fill="url(#foil)" fill-opacity="0" stroke="#2dd4bf" stroke-width="1.8" stroke-dasharray="1400" stroke-dashoffset="1400">T13o
   <animate attributeName="stroke-dashoffset" from="1400" to="0" begin="0.2s" dur="2.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".6 0 .2 1"/>
   <animate attributeName="fill-opacity" from="0" to="1" begin="2.2s" dur=".9s" fill="freeze"/>
   <animate attributeName="stroke-opacity" from="1" to="0" begin="2.6s" dur=".8s" fill="freeze"/>
 </text>
 
 <g font-family="{MONO}" font-size="22">
-  <text x="44" y="214" fill="#ff69b4">&gt;</text>
+  <text x="44" y="214" fill="#2dd4bf">&gt;</text>
   {"".join(texts)}
 </g>
 </svg>
