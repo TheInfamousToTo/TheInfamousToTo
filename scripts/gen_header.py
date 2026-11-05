@@ -14,6 +14,7 @@ LINES = [
 GLYPHS = "!<>-_\\/[]{}=+*^?#01ABCDEFXYZ$%&"
 SLOT, FRAME, FRAMES = 3.2, 0.045, 16      # seconds per line, per scramble frame, frames per scramble
 CYCLE = SLOT * len(LINES)
+AMBER, DIM = "#ffb000", "#b07f1c"
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
 SANS = "'Segoe UI',Inter,Helvetica,Arial,sans-serif"
 
@@ -34,53 +35,72 @@ for li, line in enumerate(LINES):
         a = start + k * FRAME
         b = start + (k + 1) * FRAME if k < FRAMES else start + SLOT
         s = line if k == FRAMES else frame_text(line, k)
-        fill = "#f5f5f7" if k == FRAMES else "#2dd4bf"
+        fill = AMBER if k == FRAMES else DIM
         if b >= CYCLE - 1e-9:
             anim = f'values="0;1" keyTimes="0;{kt(a)}"'
         else:
             anim = f'values="0;1;0" keyTimes="0;{kt(a)};{kt(b)}"'
         texts.append(
-            f'<text x="72" y="214" fill="{fill}" opacity="0">{escape(s)}'
+            f'<text x="68" y="218" fill="{fill}" opacity="0">{escape(s)}'
             f'<animate attributeName="opacity" {anim} calcMode="discrete" dur="{CYCLE:.1f}s" repeatCount="indefinite"/></text>'
         )
 
 svg = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" role="img" aria-label="T13o - Senior Infrastructure Analyst, homelab and Kubernetes builder">
 <defs>
-  <linearGradient id="foil" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox">
-    <stop offset="0" stop-color="#34d399"/><stop offset=".35" stop-color="#22d3ee"/>
-    <stop offset=".65" stop-color="#818cf8"/><stop offset="1" stop-color="#34d399"/>
-    <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;0 0;-1 0" dur="8s" repeatCount="indefinite"/>
-  </linearGradient>
-  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-    <path d="M24 0H0V24" fill="none" stroke="#ffffff" stroke-opacity=".035"/>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#000" fill-opacity=".2"/>
   </pattern>
-  <radialGradient id="glow" cx=".18" cy=".1" r=".9">
-    <stop offset="0" stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+  <radialGradient id="vignette" cx=".5" cy=".5" r=".75">
+    <stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".75"/>
   </radialGradient>
+  <radialGradient id="bloom" cx=".22" cy=".5" r=".6">
+    <stop offset="0" stop-color="{AMBER}" stop-opacity=".10"/><stop offset="1" stop-color="{AMBER}" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow" x="-20%" y="-40%" width="140%" height="180%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <clipPath id="card"><rect width="{W}" height="{H}" rx="14"/></clipPath>
 </defs>
-<rect width="{W}" height="{H}" rx="18" fill="#071114"/>
-<rect width="{W}" height="{H}" rx="18" fill="url(#grid)"/>
-<rect width="{W}" height="{H}" rx="18" fill="url(#glow)"/>
-<rect x=".5" y=".5" width="{W - 1}" height="{H - 1}" rx="17.5" fill="none" stroke="#2dd4bf" stroke-opacity=".25"/>
+<g clip-path="url(#card)">
+<rect width="{W}" height="{H}" fill="#0b0904"/>
+<rect width="{W}" height="{H}" fill="url(#bloom)"/>
 
-<g font-family="{MONO}" font-size="14" fill="#8b8597">
-  <circle cx="34" cy="34" r="5" fill="#ff5f57"/><circle cx="52" cy="34" r="5" fill="#febc2e"/><circle cx="70" cy="34" r="5" fill="#28c840"/>
-  <text x="94" y="39">~/t13o</text>
-  <text x="{W - 40}" y="39" text-anchor="end">homelab · online</text>
-  <circle cx="{W - 180}" cy="34" r="4" fill="#28c840"><animate attributeName="opacity" values="1;.25;1" dur="2s" repeatCount="indefinite"/></circle>
+<g filter="url(#glow)">
+  <animate attributeName="opacity" values="1;.94;1;1;.97;1" keyTimes="0;.02;.04;.6;.62;1" dur="5s" repeatCount="indefinite"/>
+  <g font-family="{MONO}" font-size="14" fill="{DIM}" letter-spacing="1">
+    <text x="40" y="42">T13O-OS 2.6 · TTY1</text>
+    <text x="{W - 40}" y="42" text-anchor="end">HOMELAB ONLINE</text>
+    <rect x="{W - 192}" y="31" width="9" height="13" fill="{AMBER}"><animate attributeName="opacity" values="1;.2;1" dur="2s" repeatCount="indefinite"/></rect>
+    <path d="M40 58H{W - 40}" stroke="{DIM}" stroke-opacity=".5" stroke-dasharray="2 6"/>
+  </g>
+
+  <text x="36" y="160" font-family="{MONO}" font-size="120" font-weight="700"
+        fill="{AMBER}" fill-opacity="0" stroke="{AMBER}" stroke-width="2" stroke-dasharray="1400" stroke-dashoffset="1400">T13o
+    <animate attributeName="stroke-dashoffset" from="1400" to="0" begin="0.2s" dur="2.2s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".6 0 .2 1"/>
+    <animate attributeName="fill-opacity" from="0" to="1" begin="2s" dur=".6s" fill="freeze"/>
+  </text>
+  <rect x="318" y="80" width="40" height="82" fill="{AMBER}" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" keyTimes="0;.5;1" calcMode="discrete" dur="1.1s" begin="2.4s" repeatCount="indefinite"/>
+  </rect>
+
+  <g font-family="{MONO}" font-size="15" letter-spacing="1">
+    <text x="660" y="98" fill="{DIM}">K8S <tspan fill="{DIM}" fill-opacity=".5">..........</tspan> <tspan fill="{AMBER}">TALOS</tspan></text>
+    <text x="660" y="124" fill="{DIM}">STORAGE <tspan fill="{DIM}" fill-opacity=".5">......</tspan> <tspan fill="{AMBER}">TRUENAS</tspan></text>
+    <text x="660" y="150" fill="{DIM}">HYPERVISOR <tspan fill="{DIM}" fill-opacity=".5">...</tspan> <tspan fill="{AMBER}">PROXMOX</tspan></text>
+    <text x="660" y="176" fill="{DIM}">LOCAL AI <tspan fill="{DIM}" fill-opacity=".5">.....</tspan> <tspan fill="{AMBER}">OLLAMA</tspan></text>
+  </g>
+
+  <g font-family="{MONO}" font-size="22">
+    <text x="40" y="218" fill="{AMBER}">$</text>
+    {"".join(texts)}
+  </g>
 </g>
 
-<text x="70" y="156" font-family="{SANS}" font-size="112" font-weight="800" letter-spacing="-1.5"
-      fill="url(#foil)" fill-opacity="0" stroke="#2dd4bf" stroke-width="1.8" stroke-dasharray="1400" stroke-dashoffset="1400">T13o
-  <animate attributeName="stroke-dashoffset" from="1400" to="0" begin="0.2s" dur="2.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines=".6 0 .2 1"/>
-  <animate attributeName="fill-opacity" from="0" to="1" begin="2.2s" dur=".9s" fill="freeze"/>
-  <animate attributeName="stroke-opacity" from="1" to="0" begin="2.6s" dur=".8s" fill="freeze"/>
-</text>
-
-<g font-family="{MONO}" font-size="22">
-  <text x="44" y="214" fill="#2dd4bf">&gt;</text>
-  {"".join(texts)}
+<rect width="{W}" height="{H}" fill="url(#scan)"/>
+<rect width="{W}" height="{H}" fill="url(#vignette)"/>
 </g>
+<rect x=".75" y=".75" width="{W - 1.5}" height="{H - 1.5}" rx="13.5" fill="none" stroke="{AMBER}" stroke-opacity=".35" stroke-width="1.5"/>
 </svg>
 '''
 open(sys.argv[1], "w", encoding="utf-8").write(svg)

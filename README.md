@@ -1,10 +1,10 @@
 <div align="center">
   <img src="assets/header.svg" width="100%" alt="T13o, Senior Infrastructure Analyst" />
   <br/><br/>
-  <a href="https://shop.satrawi.com"><img src="https://img.shields.io/badge/Shop-shop.satrawi.com-14b8a6?style=for-the-badge&logo=shopify&logoColor=white" alt="Shop" /></a>
+  <a href="https://shop.satrawi.com"><img src="https://img.shields.io/badge/Shop-shop.satrawi.com-ffb000?style=for-the-badge&labelColor=0b0904&logo=shopify&logoColor=white" alt="Shop" /></a>
   <a href="https://twitch.tv/totostreamz"><img src="https://img.shields.io/badge/Twitch-totostreamz-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" /></a>
   <a href="https://discord.gg/CXqpB7gGsB"><img src="https://img.shields.io/badge/Discord-Join%20the%20community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord server" /></a>
-  <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=14b8a6&style=for-the-badge&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=TheInfamousToTo&color=ffb000&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </div>
 
 <br/>
@@ -164,12 +164,12 @@ Tech work built by one person and run on my own servers, available at **[shop.sa
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=TheInfamousToTo&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=071114&title_color=2dd4bf&icon_color=818cf8&text_color=c9d1d9&border_color=12312f" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheInfamousToTo&layout=compact&theme=dark&bg_color=071114&title_color=2dd4bf&icon_color=818cf8&text_color=c9d1d9&border_color=12312f" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=TheInfamousToTo&show_icons=true&include_all_commits=true&count_private=true&theme=dark&bg_color=0b0904&title_color=ffb000&icon_color=ffb000&text_color=e8d5a8&border_color=3a2a08" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=TheInfamousToTo&layout=compact&theme=dark&bg_color=0b0904&title_color=ffb000&icon_color=ffb000&text_color=e8d5a8&border_color=3a2a08" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheInfamousToTo&theme=dark&background=071114&border=12312f&ring=2dd4bf&fire=818cf8&currStreakLabel=2dd4bf&sideLabels=c9d1d9&dates=8b949e&stroke=12312f&currStreakNum=c9d1d9&sideNums=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheInfamousToTo&theme=dark&background=0b0904&border=3a2a08&ring=ffb000&fire=ffb000&currStreakLabel=ffb000&sideLabels=e8d5a8&dates=b07f1c&stroke=3a2a08&currStreakNum=e8d5a8&sideNums=e8d5a8" />
 </div>
 
 ---
